@@ -1,10 +1,7 @@
 {
   "extends": "next/core-web-vitals",
   "rules": {
-    "semi": [
-      "error",
-      "always"
-    ],
+    "semi": "warn",
     "no-unused-vars": "warn",
     "@next/next/no-img-element": "off"
   }
