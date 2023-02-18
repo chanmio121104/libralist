@@ -2,9 +2,9 @@
 
 ゼミで触ってもらう Next.js のテンプレートです。
 
-## 必要なソフト
+## 必要ソフト
 
-- [Node.js](https://nodejs.org/) v16 以上
+- Node.js v16 以上
 
 ## 利用方法
 
